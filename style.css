@@ -11,7 +11,7 @@ body {
     background-color: white;
     border-radius: 15px; /* membuat linkarang */
     box-shadow: 0 4px rgba(0,0,0,1);
-    text-align: center
+    text-align: center;
 }
 .kartu-profil img {
     width: 150px;
