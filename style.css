@@ -10,7 +10,8 @@ body {
     panding: 20px;
     background-color: white;
     border-radius: 15px; /* membuat linkarang */
-    box-shadow: 0 4px 8px rgba(0,0,0,1); /* Efek bayangan */
+    box-shadow: 0 4px 8px rgba(0,0,0,1);
+    text-align: center;
 }
 |
 .kartu-profil img {
