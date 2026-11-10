@@ -8,8 +8,8 @@ body {
     margin: 50px auto;
     pandding: 20px;
     background-color: white;
-    border-radius: 15px;
-    box-shadow: 0 4px rgba(0,0,0,1);
+    border-radius:15px;
+    box-shadow: 0 4px rgba(0,0,0.1);
     text-align: center;
 }
 .kartu-profil img {
