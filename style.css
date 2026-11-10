@@ -1,19 +1,19 @@
 body { 
      background-image: light blue;
-     font-family:aril,sans-serif; /* Jenis huruf yang bersih dan mudah dibaca */
+     font-family:aril,sans-serif;
      color: black
 }
 
 .kartu profil {
     width: 300px
-    margin: 50px auto; /* 50px jarak atas/bawah, auto menengahkan kiri/kanan */
+    margin: 50px auto
     pandding: 20px;
     background-color: white;
-    border-radius: 15px; /* membuat linkarang */
+    border-radius: 15px; /
     box-shadow: 0 4px rgba(0,0,0,1);
     text-align: center;
 }
 .kartu-profil img {
     width: 150px;
-    border-radius: 50px;
+    border-radius: 50px%;
 }
