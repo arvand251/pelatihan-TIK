@@ -1,15 +1,15 @@
 body { 
      background-image: light blue;
      font-family:aril,sans-serif;
-     color: black
+     color: black;
 }
 
 .kartu profil {
-    width: 300px
-    margin: 50px auto
+    width: 300px;
+    margin: 50px auto;
     pandding: 20px;
     background-color: white;
-    border-radius: 15px; /
+    border-radius: 15px;
     box-shadow: 0 4px rgba(0,0,0,1);
     text-align: center;
 }
