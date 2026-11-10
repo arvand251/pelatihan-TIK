@@ -1,17 +1,19 @@
-body { 
-     background-image: #ADD8E6;
-     font-family: Times new roman, sans-serif;
-     color: black;
+body {
+    background-color: #ADD8E6;
+    font-family: 'Times New Roman', sans-serif;
+    color: black;
 }
+
 .kartu-profil {
     width: 300px;
     margin: 50px auto;
-    pandding: 20px;
+    padding: 20px;
     background-color: #ADD8E6;
-    border-radius:15px;
-    box-shadow: 0 4px rgba(0,0,0.1);
+    border-radius: 15px;
+    box-shadow: 0 4px 10px rgba(0, 0, 0, 0.1);
     text-align: center;
 }
+
 .kartu-profil img {
     width: 150px;
     border-radius: 50%;
